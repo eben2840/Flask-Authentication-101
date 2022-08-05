@@ -1,0 +1,24 @@
+{
+  "name": "launch",
+  "version": "1.0.0",
+  "description": "travel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eben2840/tripghana.git"
+  },
+  "keywords": [
+    "tripghana",
+    "travel",
+    "ghana"
+  ],
+  "author": "ebenmills",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eben2840/tripghana/issues"
+  },
+  "homepage": "https://github.com/eben2840/tripghana#readme"
+}
